@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Privacy Notice_a-icon a-icon-expand</name>
+   <tag></tag>
+   <elementGuidId>809e5439-de3a-47a6-9e33-a39332cac770</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='authportal-main-section']/div[2]/div/div/form/div/div/div/div[3]/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.a-icon.a-icon-expand</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>34b88cbc-9e37-4101-b5b2-ff48eec27b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-expand</value>
+      <webElementGuid>7bc2a679-39a9-4f61-ab41-767b8e2bb1f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;authportal-main-section&quot;)/div[@class=&quot;a-section auth-pagelet-container&quot;]/div[@class=&quot;a-section a-spacing-base&quot;]/div[@class=&quot;a-section&quot;]/form[@class=&quot;auth-validate-form auth-real-time-validation a-spacing-none&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;a-box&quot;]/div[@class=&quot;a-box-inner a-padding-extra-large&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;a-row a-expander-container a-expander-inline-container&quot;]/a[@class=&quot;a-expander-header a-declarative a-expander-inline-header a-link-expander&quot;]/i[@class=&quot;a-icon a-icon-expand&quot;]</value>
+      <webElementGuid>765c0eb4-a27c-4147-bb57-de39363af6a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authportal-main-section']/div[2]/div/div/form/div/div/div/div[3]/div/a/i</value>
+      <webElementGuid>8e313e71-6517-4b97-b45a-a304f2d7eeeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/i</value>
+      <webElementGuid>6a7a5e94-06d4-4517-a7d8-77f6d203f321</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
