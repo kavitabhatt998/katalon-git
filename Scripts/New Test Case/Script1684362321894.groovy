@@ -34,3 +34,5 @@ WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Se
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+
